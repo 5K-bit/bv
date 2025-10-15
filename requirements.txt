@@ -1,0 +1,8 @@
+httpx>=0.25
+python-dotenv>=1.0
+pydantic>=2.7
+pytesseract>=0.3.10
+Pillow>=10.3
+Typer>=0.12
+rich>=13.7
+tenacity>=8.2
